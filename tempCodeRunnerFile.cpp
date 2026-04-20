@@ -1,0 +1,1 @@
+ cout << "NIM" << nim << endl;
